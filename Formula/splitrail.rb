@@ -10,23 +10,23 @@ class Splitrail < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/Piebald-AI/splitrail/releases/download/v3.10.2/splitrail-v3.10.2-aarch64-apple-darwin.tar.gz"
-      sha256 "c6a8d34a270bbfc8a91ccdf45bbfd2259ebc87ada1447244f325275c18748cdf"
+      url "https://github.com/Piebald-AI/splitrail/releases/download/v3.10.3/splitrail-v3.10.3-aarch64-apple-darwin.tar.gz"
+      sha256 "b3d28420de2f7124e47abe287295b8d45684b73866f40eba74b1a8fad938dc74"
     end
     on_intel do
-      url "https://github.com/Piebald-AI/splitrail/releases/download/v3.10.2/splitrail-v3.10.2-x86_64-apple-darwin.tar.gz"
-      sha256 "79ebe8269f6ef18718c882672654af391a78e1cfbd22c0b211c95d37655a00f1"
+      url "https://github.com/Piebald-AI/splitrail/releases/download/v3.10.3/splitrail-v3.10.3-x86_64-apple-darwin.tar.gz"
+      sha256 "2a2d33b6206b58b92e1642062c00188c2e28c4a01106b43b6aaac41fa9af9a50"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/Piebald-AI/splitrail/releases/download/v3.10.2/splitrail-v3.10.2-aarch64-unknown-linux-gnu.tar.gz"
-      sha256 "7edfa53ff9618ee24ba6b81e89bb1cae9656170ea363f70c04aa24d70a97eac3"
+      url "https://github.com/Piebald-AI/splitrail/releases/download/v3.10.3/splitrail-v3.10.3-aarch64-unknown-linux-gnu.tar.gz"
+      sha256 "bf6dac314df248ad53841814071c68228ca11981bb2921914969deaf75db4564"
     end
     on_intel do
-      url "https://github.com/Piebald-AI/splitrail/releases/download/v3.10.2/splitrail-v3.10.2-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "c3c7e4ab53bb9a3fecd46279e5ced8e09ee458de264e33b937721191d27a184a"
+      url "https://github.com/Piebald-AI/splitrail/releases/download/v3.10.3/splitrail-v3.10.3-x86_64-unknown-linux-gnu.tar.gz"
+      sha256 "15e0f03d14f7f5d3eee91cf2ae453306b4170474d946f4edb3f2ef7f086ed213"
     end
   end
 
